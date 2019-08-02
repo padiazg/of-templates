@@ -1,0 +1,4 @@
+language: deno-ts
+fprocess: deno index.ts
+welcome_message: |
+  You have created a new function which uses Deno 0.11
